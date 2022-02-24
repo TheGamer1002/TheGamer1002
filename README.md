@@ -1,4 +1,6 @@
-# do i write code good
+![gitartwork](gitartwork.svg)
+
+### do i write code good
 ![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamer1002&show_icons=true)
 <details><summary>a</summary>
 <p>
