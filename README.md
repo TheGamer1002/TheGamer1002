@@ -19,12 +19,11 @@
 
   <br/>
 
-  <p align="center">
 
-      <img src="https://github-readme-stats.vercel.app/api?username=TheGamer1002&show_icons=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer1002" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGamer1002&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer1002" />
 
-  </p>
+
   
   <hr/>
  <!--
